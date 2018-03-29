@@ -1,0 +1,45 @@
+* {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color: azure;
+}
+
+body {
+	background-image: url('../images/back.jpg');
+}
+
+.btn {
+	width: 250px;
+	border-radius: 0;
+	background-color: #B0D4FF;
+	margin: 10px;
+	color: #3F545C;
+}
+
+.btn:hover {
+	background-color: #BCFEFF;
+}
+
+h1 {
+	font-family: 'Orbitron', sans-serif;
+}
+
+#question {
+	font-size: 24px;
+}
+
+.gifs {
+	max-width: 450px;
+	max-height: 450px;
+}
+
+#gifHolder {
+	margin-top: -50px;
+}
+
+.container-fluid {
+	background: grey;
+	background: rgba(105, 105, 105, .5);
+	width: 600px;
+	margin-top: 50px;
+	padding-bottom: 20px;
+}
